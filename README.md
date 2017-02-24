@@ -1,8 +1,8 @@
 # README #
 
-### Bible Quiz Registration App ###
+### djangoRest101 ###
 
-* Used for managing applicants for campus crusade bible quiz. 
+* Learning django-rest. 
 
 ### Requirements ###
 
